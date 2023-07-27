@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, My name is Palwasha 👋
 
-<!--
-**palwashakmalik/palwashakmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sofware Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Born and raised in Pakistan, but I've been living and breathing code ever since I tried my first HELLO WORLD print. I may have graduated from CEME in Computer Engineering at National University Of Science and Technology,and my true passion is in software development. I've been coding up a storm and loving every minute of it. I'm currently based in Pakistan, where I'm living my best life as a self-taught, passionate software engineer.
+
+🌍  I'm based in Lahore, Pakistan
+📄 My Resume
+🖥️  See my portfolio at here
+📫 How to reach me palwashamalikt@gmail.com
+🚀  I'm currently working with @devsinc
+🧠  I'm learning FASTApi Nowadays
+🤝  I’m looking to collaborate on AI/ML 🌎
+
+Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,fastapi,flask,kubernetes,mongodb,py,postman,postgres)](https://skillicons.dev)
+Socials
+
+     
