@@ -1,17 +1,15 @@
-### Hi, My name is Palwasha 👋
+#Hi, My name is Palwasha 👋
 
 
-Sofware Engineer
+## Sofware Engineer
 
-Born and raised in Pakistan, but I've been living and breathing code ever since I tried my first HELLO WORLD print. I may have graduated from CEME in Computer Engineering at National University Of Science and Technology,and my true passion is in software development. I've been coding up a storm and loving every minute of it. I'm currently based in Pakistan, where I'm living my best life as a self-taught, passionate software engineer.
+Born and raised in Pakistan, but I've been living and breathing code ever since I tried my first HELLO WORLD print. I have graduated from CEME in Computer Engineering at [National University Of Science and Technology](https://nust.edu.pk "National University Of Science and Technology"), and my true passion is in software development. I've been coding up a storm and loving every minute of it. I'm currently based in Pakistan, where I'm living my best life as a self-taught, passionate software engineer.
 
 🌍  I'm based in Lahore, Pakistan
-📄 My Resume
-🖥️  See my portfolio at here
 📫 How to reach me palwashamalikt@gmail.com
-🚀  I'm currently working with @devsinc
+🚀  I'm currently working with [@devsinc](http://https://www.linkedin.com/company/developers-inc/mycompany/verification/ "@devsinc")
 🧠  I'm learning FASTApi Nowadays
-🤝  I’m looking to collaborate on AI/ML 🌎
+🤝  I'm looking to collaborate on AI/ML 🌎
 
 Skills
 
@@ -20,5 +18,5 @@ Skills
 Socials
 
      
-[![My Skills](https://skillicons.dev/icons?i=twitter,instagram,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=twitter,instagram,linkedin)](https://www.linkedin.com/in/palwasha-malik/)
 
