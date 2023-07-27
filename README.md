@@ -15,7 +15,10 @@ Born and raised in Pakistan, but I've been living and breathing code ever since 
 
 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,fastapi,flask,kubernetes,mongodb,py,postman,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,fastapi,flask,kubernetes,rails,mongodb,py,postman,postgres,react)](https://skillicons.dev)
+
 Socials
 
      
+[![My Skills](https://skillicons.dev/icons?i=twitter,instagram,linkedin)](https://skillicons.dev)
+
