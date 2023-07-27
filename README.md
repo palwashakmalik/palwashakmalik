@@ -1,5 +1,4 @@
-**#Hi, My name is Palwasha 👋**
-
+# **Hi, My name is Palwasha 👋**
 
 ## Sofware Engineer
 
